@@ -1,0 +1,7 @@
+{
+    "snippet-path": "~/csm",
+    "db-file-name": "db.gob",
+    "editor": "vim",
+    "gitlab-access-token": "",
+    "gitlab-url": "https://gitlab.com/"
+}
